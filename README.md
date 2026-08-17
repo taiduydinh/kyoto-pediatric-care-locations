@@ -229,27 +229,3 @@ If you use this dataset, code, or qualitative analysis materials, please cite th
 > Walalawela Kaveesha Kavindi, Tai Dinh, and Wuyi Yue.  
 > **A Mixed-Methods Analysis of Online Reviews of Pediatric Care: A Case Study in Kyoto, Japan.**  
 > Submitted to MEDI 2026.
-
-Bibliographic information will be updated after publication.
-
----
-
-## Authors
-
-**Walalawela Kaveesha Kavindi**  
-The Kyoto College of Graduate Studies for Informatics, Kyoto, Japan
-
-**Tai Dinh**  
-The Kyoto College of Graduate Studies for Informatics, Kyoto, Japan  
-ORCID: 0000-0001-7597-4262  
-Email: t_dinh@kcg.ac.jp
-
-**Wuyi Yue**  
-The Kyoto College of Graduate Studies for Informatics, Kyoto, Japan
-
----
-
-## Repository
-
-**Kyoto Pediatric Care Locations**  
-https://github.com/taiduydinh/kyoto-pediatric-care-locations
